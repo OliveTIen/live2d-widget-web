@@ -36,7 +36,8 @@ if (screen.width >= 768) {
 			waifuPath: live2d_path + "waifu-tips.json",
 			//apiPath: "https://live2d.fghrsh.net/api/",
 			//以下cdnPath是另外一个人的api
-			cdnPath: "https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/",
+			// cdnPath: "https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/",
+			cdnPath: "https://fastly.jsdelivr.net/gh/OliveTIen/live2d_api/",
 			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
 	});
